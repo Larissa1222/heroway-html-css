@@ -1,7 +1,7 @@
 # Homework Job Seeker
 > Primeiro homework feito no intensivão de Front-End da Heroway
 
-![Design do site](job-seeker/job-seeker-design.png)
+![Design do site](job-seeker-design.png)
 
 ## Objetivo
 
