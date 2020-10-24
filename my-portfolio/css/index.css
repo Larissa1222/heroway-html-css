@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap");
+
+@import 'nav.css';
+@import 'hero.css';
+@import 'about.css';
+@import 'portfolio.css';
+@import 'contact.css';
+@import 'footer.css';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  font: 16px "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+}
+

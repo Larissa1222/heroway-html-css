@@ -1,0 +1,30 @@
+.section-hero {
+    height: 500px;
+    background-color: #D40A44;
+    display: flex;
+}
+
+.section-hero > .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%;
+    padding: 40px 20px 60px;
+    color: #fff;
+}
+
+.section-hero > .container > h2 {
+    margin: 5px;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.section-hero > .container > .decoration img{
+    filter: brightness(1000%);
+    width: 40px;
+    padding: 10px 5px 20px 5px;
+}
+
