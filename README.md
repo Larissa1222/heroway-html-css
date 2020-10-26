@@ -11,7 +11,7 @@ Por em prática o conteúdo aprendido durante as aulas.
 * 1
     * (20/10) (HTML/CSS) - Criar site de emprego, com imagem, menu...
 * 2
-    * (22/10) (HTML/CSS) - 
+    * (22/10) (HTML/CSS) - Finalizar o My-Website, adicionando parte de portfolio, contato e rodapé da pagina.
 * 3
     * (27/10) (JS) - 
 * 4
