@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+@import 'nav.css';
+@import 'home.css';
+@import 'middle.css';
+@import 'pre-footer.css';
+@import 'footer.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body,
+html {
+    font: 16px "Varela Round";
+    scroll-behavior: smooth;
+}
+  

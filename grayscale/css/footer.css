@@ -1,0 +1,26 @@
+.section-footer{
+    display: flex;
+    position: relative;
+    color: #cdcdcd;
+    background-color: black;
+    width: 100%;
+    height: 250px;
+
+}
+.section-footer > .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 0 auto;
+    width: 100%;
+    padding: 60px 20px;
+    text-align: center;
+}
+.section-footer > .container img{
+    width: 30%;
+    flex-direction: row;
+    padding: 30px 5px 30px;  
+}
+
+ 
