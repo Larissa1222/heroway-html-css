@@ -6,14 +6,18 @@ Este repositório será usado para os homeworks feitos no intensivão de Front-E
 
 Por em prática o conteúdo aprendido durante as aulas.
 
+## DESAFIO
+
+    *  (04/11) - [Grayscale](larissa1222.github.io) Criar o template Grayscale responsivo.
+ 
 ## Arquivos
 > A cada aula será lançado um arquivo
 * 1
-    * (20/10) (HTML/CSS) - Criar site de emprego, com imagem, menu...
+    * (20/10) (HTML/CSS) - (Homework) Criar site de emprego, com imagem, menu...
 * 2
-    * (22/10) (HTML/CSS) - Finalizar o My-Website, adicionando parte de portfolio, contato e rodapé da pagina.
+    * (22/10) (HTML/CSS) - (Homework) Finalizar o My-Website, adicionando parte de portfolio, contato e rodapé da pagina.     
 * 3
-    * (27/10) (JS) - 
+    * (27/10) (JS) - (Homework) Adicionar funcionalidades a calculadora.
 * 4
     * (29/10) (JS) - 
 * 5
