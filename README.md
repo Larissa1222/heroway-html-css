@@ -9,6 +9,7 @@ Por em prática o conteúdo aprendido durante as aulas.
 ## DESAFIO
 
    (04/11) - [Grayscale](https://larissa1222.github.io/) Criar o template Grayscale responsivo.
+             [Repositório do Grayscale](https://github.com/Larissa1222/Larissa1222.github.io)
  
 ## Arquivos
 > A cada aula será lançado um arquivo
