@@ -1,7 +1,7 @@
 # Homework Calculator
 > Homework de uma calculadora com operações básicas feita com HTML, CSS e JavaScript.
 
-Resultado final:
+## Resultado final:
 ![Desing da Calculadora](calculator.png)
 
 ## Objetivo
