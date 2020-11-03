@@ -4,9 +4,13 @@
 ## Resultado final:
 ![Desing da Calculadora](calculator.png)
 
-## Objetivo
+## Objetivo e Exigências
 
 * Implementar o conteúdo visto na aula de JS
+
+ - [x] Implementar as funções de uma calculadora.
+ - [x] Não permitir divisões por zero.
+ - [x] Não permitir strings como valores (notificar o usuário).
 
 ## Desenvolvido com
 
