@@ -11,30 +11,21 @@ Por em prática o conteúdo aprendido durante as aulas.
    (04/11) - [Grayscale](https://larissa1222.github.io/) Criar o template Grayscale responsivo.
              [Repositório do Grayscale](https://github.com/Larissa1222/Larissa1222.github.io)
  
+   (11/11) - [Repositório do ATM](https://github.com/Larissa1222/atm-js) 
+   
 ## Arquivos
-> A cada aula será lançado um arquivo
+
 * 1
-    * (20/10) (HTML/CSS) - (Homework) Criar site de emprego, com imagem, menu...
+    * (HTML/CSS) - (Homework) Criar site de emprego, com imagem, menu...
 * 2
-    * (22/10) (HTML/CSS) - (Homework) Finalizar o My-Website, adicionando parte de portfolio, contato e rodapé da pagina.     
+    * (HTML/CSS) - (Homework) Finalizar o My-Website, adicionando parte de portfolio, contato e rodapé da pagina.     
 * 3
-    * (27/10) (JS) - (Homework) Adicionar funcionalidades a calculadora.
+    * (JS) - (Homework) Adicionar funcionalidades a calculadora.
 * 4
-    * (29/10) (JS) - 
+    * (React) - 
 * 5
-    * (03/11) (JS) - 
-* 6
-    * (05/11) (JS) - 
-* 7
-    * (10/11)
-* 8
-    * (12/11)
-* 9
-    * (14/11)
-* 10
-    * (17/11)
-* 11
-    * (19/11)
+    * (React) - 
+
 
 ## Desenvolvido com
 
