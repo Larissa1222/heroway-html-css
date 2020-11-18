@@ -38,4 +38,4 @@ Larissa Martins da Costa – (https://github.com/Larissa1222) LinkedIn: (https:/
 ## Mais informações
 [Heroway](https://www.heroway.com.br/treinamento/) - Intensivão de front-end
 
-Agradecimento ao *Gabriel Tosta* - [Gtosta96](https://github.com/Gtosta96) e *Juan Pinheiro* - [juanpinheiro](https://github.com/juanpinheiro), sem vocês eu não chegaria onde estou!
+Agradecimento ao [Gabriel Tosta](https://github.com/Gtosta96) e [Juan Pinheiro](https://github.com/juanpinheiro), sem vocês eu não chegaria onde estou!
